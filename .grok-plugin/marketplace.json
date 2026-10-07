@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "stackone",
+      "description": "StackOne's hosted MCP server. Search and run actions across the business apps your organisation has connected, such as Workday, Salesforce, NetSuite, ServiceNow and hundreds more, with Defender screening every tool response for prompt injection. Sign in with your StackOne account; no API key needed.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/StackOneHQ/stackone-plugin.git",
+        "sha": "1a3e802da80b8a2ef7adbcfb2862d9fcb0fead72"
+      },
+      "homepage": "https://github.com/StackOneHQ/stackone-plugin",
+      "keywords": ["stackone", "stackone mcp", "stackone connectors", "stackone defender"],
+      "domains": ["stackone.com", "docs.stackone.com", "app.stackone.com", "mcp.stackone.com"]
     }
   ]
 }

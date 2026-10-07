@@ -949,6 +949,18 @@
         ]
       }
     },
+    "stackone": {
+      "sha": "1a3e802da80b8a2ef7adbcfb2862d9fcb0fead72",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "stackone",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "9b91884e43839591abd6ee3c70667b2e71d5e687",
       "version": "0.9.11",
